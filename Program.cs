@@ -19,5 +19,9 @@ namespace GIT1
 
         }
 
+        static void demo2() 
+        { 
+        }
+
     }
 }
