@@ -13,5 +13,11 @@ namespace GIT1
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
         }
+
+        static void demo()
+        {
+
+        }
+
     }
 }
